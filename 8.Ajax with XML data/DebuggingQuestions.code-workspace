@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../../DebuggingQuestions"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "Ajax",
+    "git.ignoreLimitWarning": true
+  }
+}
